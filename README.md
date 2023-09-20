@@ -34,7 +34,7 @@ To build this project, you will need the following components:
 - Jumper wires
 - Breadboard or custom PCB for circuit assembly
 
-## Wieing Diagram
+## Wiring Diagram
 
 [wiring diagram](./diagram.jpg)
 
