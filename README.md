@@ -16,7 +16,8 @@ This Arduino project is designed to create a motion-activated control system usi
 Have you ever wanted a light to automatically turn on when you enter a room or an alarm to sound when someone enters a restricted area? This Arduino project enables you to accomplish just that. The system presents two options on an attached display:
 
 1. **Light Switch**: When this option is selected, the system will use a motion sensor to detect movement. If motion is detected, it will turn on a connected LED (connected to pin 7) to provide illumination. This is perfect for spaces like bathrooms, hallways, or closets, where you only want the light to be on when motion is detected.
-2. **Motion Detector Alarm**: Choosing this option activates the motion sensor as well. If any motion is detected, a buzzer is triggered, functioning as an alarm. This feature can be used to secure an area and receive immediate alerts when someone enters.
+  
+3. **Motion Detector Alarm**: Choosing this option activates the motion sensor as well. If any motion is detected, a buzzer is triggered, functioning as an alarm. This feature can be used to secure an area and receive immediate alerts when someone enters.
 
 ## Components Needed
 
@@ -66,9 +67,13 @@ This Arduino project utilizes several libraries to simplify the development proc
 ## Installation
 
 1. Clone this repository to your local machine or download the project files as a ZIP archive.
+   
 2. Open the Arduino IDE and load the .ino sketch file from the project directory.
+ 
 3. Ensure you have the necessary libraries installed (e.g., LiquidCrystal for the display).
+ 
 4. Connect your Arduino board to your computer and select the correct board and port in the Arduino IDE.
+ 
 5. Upload the sketch to your Arduino board.
 
 ## Usage
