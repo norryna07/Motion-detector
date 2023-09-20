@@ -37,7 +37,7 @@ To build this project, you will need the following components:
 
 ## Wiring Diagram
 
-[wiring diagram](./diagram.jpg)
+![wiring diagram](./diagram.jpg)
 
 There are a few details about how to connect the components:
 - Every LED need to be wired with one 220Ω resistor
